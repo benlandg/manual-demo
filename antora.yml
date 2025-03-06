@@ -1,7 +1,7 @@
-name: component-a
-title: Component A
+name: engine
+title: Engine
 version: 1.5.6
-start_page: inline-text-formatting.adoc
+start_page: threeDee.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
